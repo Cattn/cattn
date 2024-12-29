@@ -3,7 +3,7 @@ I love making things, no matter how stupid.
 
 ## My Projects
 - [GBA](https://github.com/Cattn/gba)
-- [UMLA](https://github.com/Maple-Development/UMLA)
+- [Maple](https://github.com/Cattn/Maple)
 - [Kolf](https://github.com/Cattn/kolf)
 - [Cattn.dev](https://cattn.dev/)
 - & Many more @ [https://cattn.dev/projects](https://cattn.dev/projects)
