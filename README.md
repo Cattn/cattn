@@ -3,6 +3,8 @@ I'm 18, from Florida (living in MA for school!), and primarily (but not only!) a
 
 I sometimes write interesting blogs, you should check them out! [here.](https://cattn.dev/blog)
 
+I have a personal discord server! Like my projects, want to talk, discuss code? [Join here!](https://discord.gg/math-study-934807331668099142)
+
 ## My Projects
 - [Maple](https://github.com/Cattn/Maple)
   - A local-library first music platform built to make enjoying and organizing your music easier! Also optional social & friend features.
