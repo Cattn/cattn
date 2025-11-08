@@ -1,4 +1,4 @@
-# Hi! I'm Logan!
+# Hi! I'm Logan! 
 I'm 18, from Florida (living in MA for school!), and primarily (but not only!) a web developer.
 
 I sometimes write interesting blogs, you should check them out! [here.](https://cattn.dev/blog)
