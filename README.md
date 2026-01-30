@@ -12,8 +12,8 @@ I have a personal discord server! Like my projects, want to talk, discuss code? 
   - A svelte library to convert/render web elements in HDR!
 - [SMS](https://github.com/Cattn/SMS/)
   - SMS makes uploading files to your server easy! Upload, share, and manage your files quickly. Supports file expiration, quick filters, and previews!
-- [senseshift-face-pcb](https://github.com/Cattn/senseshift-face-pcb)
-  - A custom pcb that fits the X6 Facial Haptic Interface & X6 Haptic Forearm Sleeve
+- [calendar](https://github.com/WITCodingClub/calendar)
+  - A chrome extension to view, manange and organize your WIT Calendar!
 - [Cattn.dev](https://cattn.dev/)
   - My personal portfolio!
 
