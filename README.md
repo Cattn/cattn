@@ -3,7 +3,7 @@ I'm 19, from Florida (living in MA for school!), and primarily (but not only!) a
 
 I sometimes write interesting blogs, you should check them out! [here.](https://cattn.dev/blog)
 
-I have a personal discord server! Like my projects, want to talk, discuss code? [Join here!](https://discord.gg/math-study-934807331668099142)
+Need to contact me? Feel free to email me @ ``Logan@cattn.dev``, or on discord @ ``cattn.``. 
 
 ## My Projects
 - [Maple](https://github.com/Cattn/Maple)
